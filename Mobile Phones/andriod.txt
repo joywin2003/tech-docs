@@ -1,4 +1,4 @@
-
+`
 Phone Model Name: Galaxy A23 5G
 
 Specifications:
@@ -32,5 +32,28 @@ Connectivity: BT2.1 , 4G
 Additional Features: In Display fingerprint scanner , 30W charging(considered special in 2019 under 20k)
 Why Choose [Realme X2]?
 first phone under 20k to get Snapdragon 730g, in display fingerprint, 30w charging, 64mp main sensor,rest i forgot
+
+
+
+
+Phone Model Name: Redmi Note 10 Pro
+
+Specifications:
+
+Processor: Qualcomm Snapdragon 732G
+RAM: 8GB
+Storage: 128GB
+Display: 6.67-inch Super AMOLED, 120Hz refresh rate
+Camera: 108 + 8 +5 +2 (back) 16 (front) 
+Battery: 5020mAh 
+Operating System: MIUI 12 based on Android 11
+Connectivity: 4G LTE, Wi-Fi 5, Bluetooth 5
+Additional Features: IP53 dust/water resistant, Side-mounted fingerprint sensor, IR Blaster, Stereo speakers, Gorilla Glass 5 protection
+
+Why Choose Redmi Note 10 Pro?
+Superb Display: he 6.67-inch Super AMOLED display with a 120Hz refresh rate
+Solid Performance: Powered by the Snapdragon 732G processor and 8GB RAM. 
+
+
 
 Note: This is a generic template. Please replace the placeholders with actual specifications and details for the specific phone model you are documenting.
