@@ -25,7 +25,7 @@ To contribute to our technical documentation:
 
    ```bash
    
-   git clone https://github.com/joywin2003/Technical-documentation.git
+   git clone https://github.com/yourusername/Technical-documentation.git
    
    ```
 
