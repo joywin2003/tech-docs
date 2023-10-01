@@ -38,8 +38,29 @@ To contribute to our technical documentation:
    ```
 
 4. **Make Changes:** Add your technical documentation following the provided format. ✍️
+ ```bash
 
-5. **Commit Your Changes:** Commit your changes with a descriptive commit message. 💬
+Phone Model Name: [Enter Phone Model Name]
+
+Specifications:
+
+Processor: [Enter Processor Details]
+RAM: [Enter RAM Size]
+Storage: [Enter Storage Capacity]
+Display: [Enter Display Size and Type]
+Camera: [Enter Camera Specifications]
+Battery: [Enter Battery Capacity]
+Operating System: [Enter OS Version]
+Connectivity: [Enter Connectivity Features]
+Additional Features: [Enter any Special Features]
+Why Choose [Phone Model Name]?
+[Explain briefly why someone should choose this phone model. Highlight unique features, performance, or any other selling points.]
+
+Note: This is a generic template. Please replace the placeholders with actual specifications and details for the specific phone model you are documenting.
+
+```
+
+6. **Commit Your Changes:** Commit your changes with a descriptive commit message. 💬
 
    ```bash
    
@@ -47,7 +68,7 @@ To contribute to our technical documentation:
    
    ```
 
-6. **Push to Your Fork:** Push your changes to your GitHub fork. 🚀
+7. **Push to Your Fork:** Push your changes to your GitHub fork. 🚀
 
    ```bash
    
@@ -55,9 +76,10 @@ To contribute to our technical documentation:
    
    ```
 
-7. **Open a Pull Request:** Submit a Pull Request (PR) to the main repository under the respective category. Include a clear title and description of your changes. 🎯
 
-8. **Review and Merge:** We will review your PR, and if it meets our guidelines, it will be merged into the documentation. 🤝
+8. **Open a Pull Request:** Submit a Pull Request (PR) to the main repository under the respective category. Include a clear title and description of your changes. 🎯
+
+9. **Review and Merge:** We will review your PR, and if it meets our guidelines, it will be merged into the documentation. 🤝
 
 ## Code of Conduct
 
