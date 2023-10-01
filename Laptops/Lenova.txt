@@ -1,0 +1,33 @@
+Laptop Model Name: [Lenovo Legion 5]
+
+Specifications:
+
+Processor: 11th Generation Intel® Core™ i7-11800H Processor (2.30 GHz up to 4.60 GHz)
+Memory: 16 GB DDR4-3200 MHz (SODIMM)
+Hard Drive: 512 GB SSD M.2 2280 PCIe Gen4 TLC
+Operating System: Windows 11 Home Single Language 64
+Graphics: NVIDIA® GeForce® RTX™ 3060 6GB GDDR6 AT 130W(115+15)
+Camera: 720P HD with Dual Array Microphone & Electronic Privacy Shutter
+Bluetooth: Bluetooth® 5.0 or above
+Display Type: 15.6" FHD (1920 x 1080), IPS, Anti-Glare, Non-Touch, 100%sRGB, 300 nits, 165Hz, Dolby® Vison, G-Sync, DCdimmer, Advanced Optimus support
+AC Adapter: 230W
+Wireless: Wi-Fi 6 2x2 AX
+Speakers:Stereo speakers, 2W x2, Nahimic Audio
+
+Battery: 4 Cell Li-Polymer 60wH
+Standard Ports:
+• 3x USB 3.2 Gen 1
+• 1x USB 3.2 Gen 1 (Always On)
+• 1x Thunderbolt™ 4 / USB4® 40Gbps (support data transfer and DisplayPort™ 1.4)
+• 1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery and DisplayPort 1.4)
+• 1x HDMI 2.1
+• 1x Ethernet (RJ-45)
+• 1x Headphone / microphone combo jack (3.5mm)
+• 1x Power connecto
+Why Choose [Laptop Model Name]?
+Better build quality compared to competition , one of the highest wattage RTX3060
+
+
+
+
+
