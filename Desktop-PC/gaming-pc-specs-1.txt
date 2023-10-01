@@ -1,0 +1,16 @@
+* This is a Gaming PC Specs of 1 Lakh
+* Author: Pratham V Bhat
+
+CPU: Ryzen-5 7600X (Max Boost Frequency upto 5.3 Ghz) (No IGPU in processor)
+Mother Board: MSI-B650M A Pro wifi
+RAM: 16*1 - Corsair Vengeance 5200Mhz 16GB C40 Black DDR5 (16*1 Kit)
+CPU Cooler: Deepcool - AK620
+Storage-1: WD - Blue 500GB SN 570 M.2 Nvme
+Storage-2: Not included
+GPU: RTX 4060 - Inno3D Twin X2 OC 8GB (has 2 fans and comes with the over clocking and has 8GB of VRAM)
+SMPS (Power Supply): Deepcool - PM650D Gold Certified
+Case: Lian Li - Lancool 250M Mesh RGB Black (Black Colour Case with mesh in the front of the case)
+
+Total Costing : 100,583.00*
+
+*Price varies on the time of buy, currently cost will reach upto 1 lakh
