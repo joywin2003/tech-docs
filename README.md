@@ -89,4 +89,4 @@ Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when parti
 
 As a first step, please consider giving our repository a ⭐️ to show your support! 🌟
 
-Happy contributing! 💻📚🚗
+Happy contributing and all the best for hacktoberfest! 💻📚🚗
