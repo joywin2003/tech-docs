@@ -56,4 +56,24 @@ Solid Performance: Powered by the Snapdragon 732G processor and 8GB RAM.
 
 
 
+Phone Model Name: Motorola Edge 40 Neo
+
+Specifications:
+
+Processor: MediaTek Dimensity 7030 (6nm)
+RAM: 8GB / 12GB
+Storage: 128GB / 256GB
+Display: 6.55-inch full-HD+ poLED curved display with 144Hz refresh rate
+Camera: 50 + 13 (back) 32 (front)
+Battery: 5000mAh
+Operating System: Android 13
+Connectivity: 5G, Wi-Fi 6E, Bluetooth 5.3, Dual 4G VoLTE
+Additional Features: IP68 Water/dust resistant, In-display fingerprint, 1300 nits peak Brightness,ThinkShield Security,  68W wired fast charging support.
+
+Why Choose Motorola Edge 40 Neo?
+Motorola Edge 40 Neo the World's first MediaTek Dimensity 7030 processor,
+a super full-HD+ poLED curved display with Dolby Atmos powered stereo speakers and IP68 certification which comes under 25k price segment only.
+
+
 Note: This is a generic template. Please replace the placeholders with actual specifications and details for the specific phone model you are documenting.
+
