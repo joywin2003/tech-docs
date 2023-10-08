@@ -40,6 +40,7 @@ Standard Ports:
 Why Choose Asus Vivobook 16x?
  Excellent laptops suitable for CSE students. This laptop boast powerful processors and ample RAM to handle most programming tasks. Vivobook is a great everyday laptop that allows you to add flair and dynamism to daily tasks, packed with unique features created with users' convenience and security in mind
 
+#hacktoberfest
 
 
 
