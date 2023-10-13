@@ -1,0 +1,11 @@
+MacBook Air (M1, 2020):
+Processor: Apple M1 chip with 8-core CPU and 8-core GPU
+Memory (RAM): 8GB 
+Storage: 512GB SSD
+Display: 13.3-inch Retina display
+Ports: 2 x Thunderbolt 3 (USB-C) ports
+Weight: Approximately 2.8 pounds (1.29 kg)
+
+Impressive Performance
+Thin and Lightweight 
+Good performance
