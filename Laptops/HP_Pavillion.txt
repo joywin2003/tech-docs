@@ -1,0 +1,20 @@
+Laptop Model Name: HP Pavillion Gaming Laptop 15-dk2xxx
+
+Specifications:
+
+Processor: Intel® Core™ i5-11300H (up to 4.4 GHz with Intel® Turbo Boost Technology, 8 MB L3 cache, 4 cores)
+RAM: 12.0 GB (11.8 GB usable)
+Storage: 512 GB PCIe® NVMe™ M.2 SSD
+Display: 15.6" diagonal, FHD (1920 x 1080), 144 Hz, IPS, micro-edge, anti-glare, 250 nits, 45% NTSC
+Camera: HP Wide Vision 720p HD camera with integrated dual array digital microphones
+Battery: 3-cell, 52.5 Wh Li-ion polymer
+Operating System: Windows 11
+Connectivity:Intel® Wi-Fi 6 AX201 (2x2) and Bluetooth® 5 combo (Supporting Gigabit data rate)
+
+Why Choose HP Pavillion Gaming Laptop 15-dk2xxx?
+
+  - Powerful Performance
+  - Durable Build Quality
+  - Upgradeable
+  - Well-Lit Keyboard
+  -Best Economic Value
