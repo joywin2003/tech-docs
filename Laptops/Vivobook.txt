@@ -1,0 +1,46 @@
+Laptop Model Name: Asus Vivobook 16X 
+
+Specifications:
+
+Processor: AMD Ryzen™ 7 5800H/HS Mobile Processor 3.2 GHz (8-core/16-thread, 16MB cache, up to 4.4 GHz max boost)
+Memory: Up to 16GB DDR4
+Hard Drive:512GB M.2 NVMe™ PCIe® 3.0 SSD
+Operating System: Windows 11 Home - ASUS recommends Windows 11 Pro for business
+Graphics: Integrated AMD Radeon™ Graphics
+Camera: 720p HD camera With privacy shutter
+Bluetooth: Bluetooth® 5.3 Wireless Card
+Display Type: 40.64cm (16), WUXGA (1920 x 1200) 16:10 aspect ratio, LED Backlit, 60Hz refresh rate, 300nits, Anti-glare display
+AC Adapter: 
+ø4.5, 90W AC Adapter, Output: 19V DC, 4.74A, 90W, Input: 100~240V AC 50/60Hz universal
+Wireless: Wi-Fi 6(802.11ax) (Dual band) 2*2 
+Speakers:SonicMaster with Cortana voice-recognition support
+Keyboard & Touchpad:Backlit Chiclet Keyboard with Num-key, 1.4mm Key-travel, Touchpad
+Features:System diagnosis
+Battery health charging
+Fan Profile
+Splendid
+Function key lock
+WiFi SmartConnect
+Link to MyASUS
+TaskFirst
+Live update
+ASUS Intelligent Performance Technology
+AI Noise Canceling
+
+
+Battery: 50WHrs, 3S1P, 3-cell Li-ion
+Standard Ports:
+1x DDR4 SO-DIMM slot 
+1x USB 2.0 Type-A
+1x USB 3.2 Gen 1 Type-C
+2x USB 3.2 Gen 1 Type-A
+1x HDMI 1.4
+1x 3.5mm Combo Audio Jack
+1x DC-in
+Why Choose Asus Vivobook 16x?
+ Excellent laptops suitable for CSE students. This laptop boast powerful processors and ample RAM to handle most programming tasks. Vivobook is a great everyday laptop that allows you to add flair and dynamism to daily tasks, packed with unique features created with users' convenience and security in mind
+
+#hacktoberfest
+
+
+

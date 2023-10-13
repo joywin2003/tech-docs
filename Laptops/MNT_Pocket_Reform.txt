@@ -1,0 +1,55 @@
+Laptop Model Name: MNT POCKET REFORM
+
+Specifications:
+
+Processor: Modular (Options include NXP i.MX8M Plus, NXP Layerscape LS1028A, Raspberry Pi CM4, Pine SOQuartz RK3566, FPGA AMD/Xilinx Kintex-7, RISC-V)
+Memory: 4, 8, 16GB DDR4
+Graphics: GPU options based on the chosen processor module (Options include Vivante GC7000UL, VideoCore, Mali G52) 
+Operating System: 
+	- Debian GNU/Linux 
+	- Support for other distributions: Arch, Ubuntu, Void
+Storage: 
+	- Up to 128GB eMMC flash memory
+	- NVMe SSD slot (up to 2TB)
+	- MicroSD card slot
+	- Full Disk Encryption
+Display: 
+	- 7" diagonal
+	- Full HD (1920 × 1080 pixels, ~310 ppi)
+	- Micro HDMI output up to 4K resolution
+Input: 
+	- Keyboard with ortholinear matrix, 60 keys
+	- Mechanical switches (Kailh Choc White)
+	- N-key rollover
+	- Optical 10mm trackball with 4 buttons
+	- RGB backlight
+Wireless: 
+	- WiFi 802.11ac
+	- Bluetooth 5.0
+	- Optional WWAN slot for 4G/5G/LTE modem
+	- Micro SIM card slot
+Battery:
+	- USB-C Power Delivery Charging
+	- 2× LiIon cells (8000mAh total)
+Case/Material: 
+	- Purple or Black anodized
+	- Bead-blasted Aluminum
+	- optional rubber bumper
+Standard Ports:
+	- 2× USB-C (one supports Power Delivery charging)
+	- MicroSD slot
+	- Micro HDMI port
+	- ix Industrial Ethernet port (with optional RJ45 adapter cable)
+Sound: 
+	- DAC with Mono Speaker
+	- MEMS Microphone (hardware switch)
+	- Headphones via USB-C audio adapter or Bluetooth
+Desktop Environment:
+	- GNOME
+	- KDE Plasma
+
+Why Choose MNT Pocket Reform?
+- Open Source: Embraces the open-source philosophy, giving users freedom and flexibility.
+- Customizable Performance: Modular design allows users to tailor the laptop's performance to their specific needs.
+- Versatile Connectivity: Offers a range of ports and wireless options for versatile connectivity needs.
+

@@ -1,0 +1,50 @@
+Laptop Model Name: ASUS TUF Gaming F15 (Intel® Core™ i5, NVIDIA® GeForce RTX™ 2050, 8GB RAM)
+
+Specifications:
+ Processor: 
+   - Intel® Core™ i5-11400H Processor 2.7 GHz (12M Cache, up to 4.5 GHz, 6 Cores)
+ RAM: 
+   - 8GB DDR4-3200 SO-DIMM, Max Capacity:32GB
+ Storage:
+   - 512GB PCIe® 3.0 NVMe™ M.2 SSD
+ Display:
+   - 15.6-inch Full HD (1920 x 1080) IPS display with a 144Hz refresh rate
+ Graphics:  
+   - NVIDIA® GeForce RTX™ 2050 Laptop GPU, TGP 70W with Dynamic Boost, 4GB GDDR6
+ Battery: 
+   - 48WHrs, 3S1P, 3-cell Li-ion
+ Power Supply:    
+   - 150W AC Adapter
+ Weight: 
+   - 2.30kg
+ Operating System:  
+   - Windows 11 Home Single Language
+ Connectivity:
+   -  Wi-Fi 6 (802.11ax)
+   -  Bluetooth 5.1
+ I/O ports:
+   -  1x 3.5mm Combo Audio Jack
+   -  1x HDMI 2.0b
+   -  3x USB 3.2 Gen 1 Type-A
+   -  1x RJ45 LAN port
+   -  1x Thunderbolt™ 4 support DisplayPort™
+ Camera:
+   -  720P HD camera
+ Additional Features:
+   - TUF Gaming design for durability
+   - DTS:X Ultra audio technology for immersive sound
+   - AI noise-canceling technology
+   - MIL-STD-810H military-grade durability
+   - AURA RGB lighting
+   - Xbox Game Pass Ultimate - 3 months 
+   - McAfee® 1 year
+
+Why Choose ASUS TUF Gaming F15?
+
+  - Powerful Performance
+  - Durable Build Quality
+  - RTX™ 2050
+  - Upgradeable
+  - Customizable RGB Keyboard
+  - Rugged Design
+  - Value for Money

@@ -1,0 +1,70 @@
+
+The 2 major camera types are DSLR camera and Mirrorless camera.
+
+1.DSLR Camera:
+    A DSLR camera uses a mirror and optical viewfinder system to direct light to the camera's sensor. When you take a photo, the mirror flips up, momentarily blocking the viewfinder, allowing light to reach the sensor. DSLRs tend to be larger and heavier due to their internal mirror mechanism.
+The most efficient model in DSLR is Canon's EOS 5D mark 4.
+
+Model Name: Canon EOS 5D Mark IV
+Specifications:
+Sensor Type: Full-frame CMOS
+Megapixels: 30.4 MP
+ISO Range: 100-32000 (Expandable to 50-102400)
+Shutter Speed: 30s to 1/8000s
+Autofocus: Dual Pixel CMOS AF
+Viewfinder: Optical pentaprism
+Image Stabilization: None (Lens-dependent)
+Video Recording: 4K at 30fps
+Lens Compatibility: Canon EF Mount
+Connectivity: Wi-Fi, NFC, GPS
+Additional Features: Weather-sealed body, 3.2-inch touchscreen LCD, extensive customization options
+
+Why Choose Canon EOS 5D Mark IV?
+    *The Canon EOS 5D Mark IV is an excellent choice for photographers seeking exceptional image quality and versatility.
+    *Its full-frame sensor, high megapixel count, and impressive ISO range ensure stunning results in various lighting conditions. 
+    *The Dual Pixel CMOS AF provides fast and accurate autofocus for both photos and videos. 
+    *The camera's robust build, 4K video recording, and a wide range of compatible lenses make it suitable for professional photographers and enthusiasts alike.
+
+2.Mirrorless Camera:
+    A mirrorless camera, as the name suggests, lacks the mirror found in DSLRs. Light directly hits the camera's image sensor, and an electronic viewfinder (EVF) or the camera's LCD screen is used for composing shots. Mirrorless cameras are typically smaller and lighter than DSLRs, making them more portable and suitable for various photography styles.
+The most prominent model in Mirrorless domain is the aplha a7 3 by Sony.
+
+Model Name: Sony Alpha a7 III
+Specifications:
+Sensor Type: Full-frame Exmor R CMOS
+Megapixels: 24.2 MP
+ISO Range: 100-51200 (Expandable to 50-204800)
+Shutter Speed: 30s to 1/8000s
+Autofocus: Fast Hybrid AF with 693 phase-detection points
+Electronic Viewfinder: 2.36M-dot OLED
+Image Stabilization: 5-axis in-body stabilization
+Video Recording: 4K at 30fps
+Lens Compatibility: Sony E-mount
+Connectivity: Wi-Fi, NFC, Bluetooth
+Additional Features: 10fps continuous shooting, real-time Eye AF, silent shooting mode
+
+Why Choose Sony Alpha a7 III?
+    *The Sony Alpha a7 III is a mirrorless camera that offers the perfect blend of performance and portability. 
+    *Its full-frame sensor and excellent low-light capabilities result in high-quality images in various shooting conditions. 
+    *The camera's fast and accurate autofocus system, 5-axis in-body stabilization, and 4K video recording make it ideal for both photographers and videographers. 
+    *Additionally, its compact size and compatibility with a wide range of lenses make it a versatile choice for travel and everyday photography.
+
+Camera Model Name: Nikon D5200
+
+Included Lens: Nikon AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR II Lens
+
+Specifications:
+
+- Sensor: 24.1-megapixel DX-format CMOS sensor
+- Autofocus: 39-point autofocus system
+- Viewfinder: Optical pentamirror viewfinder with 95% frame coverage
+- LCD Screen: 3-inch Vari-angle TFT-LCD with 921,000 dots
+- Video: Full HD 1080p video recording at 60/50/30/25/24 fps
+- Connectivity: Built-in stereo microphone, HDMI
+- Battery: Rechargeable Li-ion battery (EN-EL14)
+- Memory Card: SD, SDHC, SDXC compatible
+- Weight: 505 grams (body only)
+
+Reason for Buying:
+
+My uncle purchased it
