@@ -1,0 +1,51 @@
+Name of the Model: Samsung	UA50CUE60AK 50 inch (127 cm) LED 4K TV
+
+
+Warranty:2 Years
+Box Contents:1N LED TV, 1N Power Cord, 1N Remote Control, 2N Stand-Top, 1N OC,1 User Manual
+Size(Diagonal):50 Inch (127 cm, Ideal for 8-13 feet viewing distance)
+Resolution: 3840 x 2160 Pixels
+Other Video Features:HDR 10 Plus, HLG
+
+
+AUDIO
+Sound Type:2.0
+Total Speaker Output:20 W
+Speaker Frequency Range	50 - 60 Hz
+
+
+CONNECTIVITY /PORTS
+USB Ports:1(Side)
+USB Supports:Audio, Video, Image
+HDMI Ports:3(Side)
+Ethernet Sockets:1
+
+SMART TV FEATURES
+Smart TV:Yes
+Wifi Present:Yes
+Screen Mirroring Support:Yes
+Bluetooth:Yes
+Bluetooth Version:5.2
+Inbuilt Apps:Yes, Netflix, Prime Video, Zee5, SonyLiv, Youtube, Hotstar
+Games:Yes
+Camera:Yes
+Voice Recognition:Yes
+Other Smart Features:Linux, Future Ready
+
+
+REMOTE
+Internet Access:Yes
+Cell Requirement:2 AAA
+Other Remote Features:Smart Control
+
+
+POWER SUPPLY
+Power Consmption Running:140 W
+Power Saving Mode:Yes
+
+Why to choose this?
+This is a very good smart tv. Samsung has the best quality products. The Audio output and the display of this tv is very good. 
+
+
+
+#hacktoberfest
