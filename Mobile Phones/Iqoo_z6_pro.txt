@@ -1,0 +1,16 @@
+Phone Model Name: IQOO Z6 Pro
+
+Specifications:
+
+Processor: Snapdragon 778G
+RAM: 6/8GB RAM
+Storage: 128GB/256GB 
+Display: 6.67 inches
+Camera: 64-megapixel (f/1.79) + 8-megapixel (f/2.2) + 2-megapixel 
+Battery: 4700mAh
+Operating System: Android 12 (Funtouch OS)
+Connectivity: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+Additional Features: Fingerprint (Indisplay, optical), accelerometer, proximity, gyro, compass, barometer, color spectrum
+
+Why Choose Iqoo Z6 Pro ?
+    Best Performance Phone in Mid-range segment. OS is preety clean without any bloatwares.

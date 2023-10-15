@@ -1,0 +1,45 @@
+Laptop Model Name: Dell Inspiron 3501
+
+Specifications:
+
+Processor: Intel i5 11th Generation i5-1135G7 Processor 2.4 GHz 
+Memory: 8 GB DDR4
+Hard Drive:512GB M.2 NVMe™ PCIe® 3.0 SSD
+Operating System: Windows 11 Home 
+Graphics: Intel Iris Xe, Nvidia MX330
+Camera: 720p HD camera
+Bluetooth: Bluetooth® 5.0 Wireless Card
+Display Type: 39.49cm (15.55), WUXGA (1920 x 1200) 16:10 aspect ratio, 60Hz refresh rate, 220nits, Anti-glare display
+AC Adapter: 
+ø4.5, 65W AC Adapter, Output: 19.5V DC, 3.34A, Input: 100~240V AC 50/60Hz universal
+Wireless: Wi-Fi 6(802.11ax) (Dual band) 2*2 
+Speakers: Cirrus Logic CS8409, Stereo Supported, High Definition audio interface
+Keyboard & Touchpad:Backlit Keyboard with Num-key, 1.4mm Key-travel, Touchpad
+Features: 
+My Dell
+Dell SupportAssist
+Dell Cinema Color
+Dell update
+Dell Power Manager
+Dell Mobile Connect
+Dell CustomerConnect
+
+
+
+Battery: 42WHrs, 3-cell Li-ion
+Standard Ports:
+1x DDR4 SO-DIMM slot 
+1x USB 2.0 Type-A
+1x USB 3.2 Gen 1 Type-C
+2x USB 3.2 Gen 1 Type-A
+1x HDMI 1.4
+1x 3.5mm Combo Audio Jack
+1x DC-in (4.5mm barrel)
+1x RJ45
+1x SD-card
+Why Choose Dell Inspiron?
+ Excellent Budget friendly laptops suitable for CSE students. This laptop boast powerful processors and ample RAM to handle most programming tasks. Dell is good in Customer Support and Maintenance.
+
+#hacktoberfest
+
+
