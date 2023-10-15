@@ -1,0 +1,16 @@
+Phone Model Name: Xiaomi Redmi Note 8 Pro
+
+Specifications:
+
+Processor: MediaTek Helio G90T
+RAM: 6/8GB RAM
+Storage: 64GB/128GB 
+Display: 6.53 inches
+Camera: 64-megapixel (f/1.79) + 8-megapixel (f/2.2) + 2-megapixel + 2-megapixel
+Battery: 4500mAh
+Operating System: Android 9 Pie (MIUI 10)
+Connectivity: Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+Additional Features: Fingerprint (under display, optical), accelerometer, proximity, gyro, compass, barometer, color spectrum
+
+Why Choose Xiaomi Redmi Note 8 Pro ?
+packing a gorgeous screen, stellar camera system, good battery life, and lightning quick internals.

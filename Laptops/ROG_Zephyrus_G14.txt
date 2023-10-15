@@ -1,0 +1,25 @@
+Laptop Model Name: System Model	ROG Zephyrus G14 GA401QE_GA401QE
+
+Specifications:
+    Processor: AMD Ryzen™ 9 5900HS Mobile Processor (8-core/16-thread 20MB cache, up to 4.6 GHz max boost)
+    Memory: 16GB DDR4 on board, 16GB DDR4-3200 SO-DIMM
+         Max Capacity: 32GB
+    Graphics: NVIDIA GeForce RTX 3050 Ti Laptop GPU and AMD Radeon(TM) Graphics
+    Operating System: Windows 10 Pro - ASUS recommends Windows 11 Pro for business Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11.
+    Storage: 1TB PCIe® 3.0 NVMe™ M.2 SSD
+    Display: 
+         - 14-inch
+         - WQHD (2560 x 1440) 16:9
+         - IPS-level
+         - Anti-glare display
+         - DCI-P3: 100%
+         - Refresh Rate: 120Hz
+         - Adaptive-Sync
+         - Pantone Validated
+         - Optimus
+    I/O:
+        - 1x 3.5mm Combo Audio Jack
+        - 1x HDMI 2.0b
+        - 1x USB 3.2 Gen 2 Type-C
+        - 2x USB 3.2 Gen 1 Type-A
+        - 1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery / G-SYNC
