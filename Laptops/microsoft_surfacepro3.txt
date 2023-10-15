@@ -1,0 +1,40 @@
+Laptop Model Name: Microsoft Surface Pro 3
+
+Specifications:
+
+    Size: 11.5" x 7.93" x 0.36" (292 mm x 201.3 mm x 9.1 mm)
+
+    Weight: 1.76 lb (800g)
+
+    Display: 
+        -12” ClearType Full HD Display
+        -Resolution: 2160 x 1440
+        -Aspect ratio: 3:2
+        -Touch: multi-touch
+        -Surface Pen support
+
+    Processor: 4th generation Intel® Core™ i5
+
+    Battery life: Up to 9 hours of web browsing
+
+    ports:
+        -Full-size USB 3.0
+        -Mini DisplayPort3
+        -Audio jack
+        -microSD™ card reader
+        -Charging port
+        -Headset jack
+        -Cover port
+
+    Cameras, video, and audio:
+        -5.0 megapixel front-facing camera
+        -5.0 megapixel rear-facing camera
+        -Stereo microphones
+        -Stereo speakers with Dolby® audio
+
+ Advantages:
+   
+    -Impressive Performance
+    -Thin and Lightweight 
+    -good battery back up 
+    -easy to carry
