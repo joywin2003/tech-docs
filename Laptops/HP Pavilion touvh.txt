@@ -1,0 +1,49 @@
+Laptop Model Name: HP Pavilion Laptop PC 15-eg2000 (4U8D7AV)
+
+Specifications:
+
+Processor: 12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz, 10 core, 12 Logical Processor
+
+Graphics : Intel Iris® Xe Graphics
+
+RAM: 12.0 GB (11.7 GB usable)
+
+Storage: 512 GB PCIe® Gen 3.0 x4 NVMe™ Value M.2 Solid-State Drive
+
+Display: 39.6 cm (15.6 in) diagonal
+         FHD
+         WLED
+         BrightView
+         UWVA
+         eDP
+         touchscreen
+         narrow bezel
+         250 nits
+         45% NTSC (1920 x 1080)
+
+Camera: HP Wide Vision 720p HD Camera with temporal noise reduction and integrated dual array-digital microphones
+        Supported audio software:
+        Beam forming
+        Echo cancellation
+        Noise suppression
+
+Battery: 3-cell, 41 Wh Li-ion polymer
+
+Operating System: Windows 11
+
+Connectivity: Mediatek MT7921 Wi-Fi 6 802.11ax (2x2) multi-user MIMO supported and Bluetooth® 5.3 (supporting gigabit data rate)
+
+I/O Ports:
+    (2) USB 3.2 Gen 1 Type-A ports; 5 Gbps signaling rate (one on each side)
+    (1) USB 3.2 Gen 2 Type-C port; 10 Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep & Charge)
+    (1) HDMI 2.1 port
+    (1) Headphone/microphone combo port
+    (1) AC Smart pin adapter plug
+
+Why Choose HP Pavillion Gaming Laptop 15-dk2xxx?
+
+  - Balanced Performance
+  - Durable Build Quality
+  - Upgradeable
+  - Well-Lit Keyboard
+  -Best Economic Value
