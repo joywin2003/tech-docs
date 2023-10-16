@@ -2,7 +2,7 @@ Phone Model Name: Google Pixel 6A
 
 Specifications:
 
-Processor: SGoogle Tensor
+Processor: Google Tensor
 RAM: 6GB
 Storage: 128 GB UFS 3.1 
 Display: 6.1 inch
