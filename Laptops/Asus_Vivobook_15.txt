@@ -1,0 +1,51 @@
+Laptop Model Name: VivoBook_ASUSLaptop X571GT_F571GT
+
+Specifications:
+
+Processor:  Intel i5-8300H (8) @ 2.310GHz
+Memory: 
+        - 8GB DDR4 on board
+        - Max Total system memory up to:16GB
+Hard Drive:512GB M.2 NVMe™ PCIe® 3.0 SSD
+Operating System: Windows 11 Home Single Language x86_64
+Graphics: NVIDIA® GeForce® GTX 1650, 4GB GDDR6
+Camera: 720p HD camera
+Bluetooth: Bluetooth® 5.3 Wireless Card
+Display Type: 15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit,
+              60Hz refresh rate, 250nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen
+AC Adapter: ø4.5, 150W AC Adapter, Output: 19V DC, 7.89A, 150W, Input: 100~240V AC 50/60Hz universal
+Wireless: Wi-Fi 6(802.11ax) (Dual band) 2*2 
+Speakers: 
+        - Built-in speaker
+        - Built-in microphone
+        - harman/kardon (Mainstream)
+        - with Cortana support
+Keyboard & Touchpad: Backlit Chiclet Keyboard, 1.4mm Key-travel, Touchpad
+Features: 
+        - AppDeals
+        - System diagnosis
+        - Battery health charging
+        - Fan Profile
+        - Splendid
+        - Tru2Life
+        - Function key lock
+        - WiFi SmartConnect
+        - Link to MyASUS
+
+Battery: 42WHrs, 3S1P, 3-cell Li-ion
+Standard Ports:
+        - 1x USB 3.2 Gen 1 Type-A
+        - 1x USB 3.2 Gen 1 Type-C
+        - 2x USB 2.0 Type-A
+        - 1x HDMI 1.4
+        - 1x 3.5mm Combo Audio Jack
+        - 1x Headphone out
+        - 1x RJ45 Gigabit Ethernet
+        - 1x DC-in
+        - 2 in1 card reader SD/MMC
+Why Choose Asus Vivobook 15?
+        - This laptop is nice and supports many good games with good overall experience, would have been a hardtime without this laptop
+        during the lockdown. So yeah :) (idk what else to say like this my first git hub thing and i certainly dont wanna let my guy
+        Anish Shobith down ;))
+
+#hacktoberfest
