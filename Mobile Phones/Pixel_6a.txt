@@ -1,0 +1,16 @@
+Phone Model Name: Google Pixel 6A
+
+Specifications:
+
+Processor: SGoogle Tensor
+RAM: 6GB
+Storage: 128 GB UFS 3.1 
+Display: 6.1 inch
+Camera: 12.2 MP (ƒ/1.7) + 12 MP ultrawide (ƒ/2.2) + 8 MP (ƒ/2.0)
+Battery: 4410 mAh
+Operating System: Android 12 (Funtouch OS)
+Connectivity: Wi-Fi 6 (802.11ax) and 6E (6GHz) with MIMO, Bluetooth v5.2
+Additional Features: Fingerprint (Indisplay, optical), accelerometer, proximity, gyro, compass, barometer, ambience sensor
+
+Why Choose Google Pixel 6a ?
+With a trendy dual tone look, the Pixel 6a is a looker and its actually preferable with its smaller 6.1-inch form factor
