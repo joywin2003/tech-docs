@@ -1,0 +1,17 @@
+Phone Model Name: Nothing Phone (1)
+
+Specifications:
+
+Processor: Qualcomm Snapdragon 778G+
+RAM: 8GB
+Storage: 128GB
+Display: 6.5 inch Full Hd Flexible OLED Display
+Camera: Rear 50MP +50MP, Front 16MP
+Battery: 4500mAh
+Operating System: Android 13
+Connectivity: Dual Sim 5G
+Additional Features: Fingerprint (under display, optical), accelerometer, proximity, gyro, compass, Multiple LED lights on the back (notifications, charging progress, camera fill light)
+
+Why Choose Nothing Phone (1)?
+packing a gorgeous screen, stellar camera system, glyph lights
+
