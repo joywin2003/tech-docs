@@ -1,0 +1,22 @@
+Phone Model Name: OnePlus 9 Pro
+
+Specifications:
+
+Processor: Qualcomm Snapdragon 888
+RAM: 8/12GB RAM
+Storage: 128GB/256GB
+Display: 6.7 inches, Fluid AMOLED, 1440 x 3216 pixels
+Camera: Quad-camera setup:
+  - 48-megapixel main camera (f/1.8)
+  - 50-megapixel ultra-wide camera (f/2.2)
+  - 8-megapixel telephoto camera (f/2.4)
+  - 2-megapixel monochrome sensor (f/2.4)
+Battery: 4,500mAh, Warp Charge 65T, 50W wireless charging
+Operating System: Android 11 with OxygenOS
+Connectivity: 5G, Wi-Fi 6, Bluetooth 5.2
+Additional Features: In-display fingerprint sensor, accelerometer, gyro, proximity, compass, ambient light sensor
+
+Why Choose OnePlus 9 Pro?
+    The OnePlus 9 Pro offers top-tier performance with its Snapdragon 888 chipset and excellent display quality. 
+    It has a high-quality camera system and fast charging capabilities. 
+    The OxygenOS provides a clean and smooth user experience without unnecessary bloatware.
