@@ -1,0 +1,53 @@
+Laptop Model : HP 15s
+
+Specifications:
+
+General:
+      Brand	HP
+      Model	15s (15s-Eq2143au)
+      Price in India	₹33,990
+      Launched in India	Yes
+      Model Number	15s-Eq2143au
+      Dimensions (mm)	242.00 x 359.00 x 180.00
+      Weight (kg)	1.69
+      Colours	Natural Silver
+      Operating system	Windows 11
+      Battery Life (up to hours)	9
+
+Display:
+      Size	15.60-inch
+      Resolution	1920x1080 pixels
+      Touch Screen	No
+
+Processor:
+      Processor	AMD Ryzen Ryzen 3-5300U
+      Burst Clock Speed	3.8GHz
+
+Memory:
+      RAM	8GB
+      Expandable RAM up to (GB)	16GB
+      Graphics
+      Dedicated Graphics	No
+
+Storage:
+      SSD	512GB
+
+Inputs:
+      Web Camera	Yes
+      Pointer Device	Trackpad
+      Backlit Keyboard	No
+      Touchpad	Yes
+      Internal Mic	Yes
+      Speakers	2 Speakers
+
+Ports and slots:
+      Number of USB Ports	3
+      USB 3.2 Gen 1 (Type A)	2
+      Thunderbolt 4 (Type C)	1
+      HDMI Port	Standard
+      Multi Card Slot	SD Card Reader
+      Headphone and Mic Combo Jack	Yes
+      Thunderbolt 4 (Type C)	1
+      HDMI Port	Standard
+      Multi Card Slot	SD Card Reader
+      Headphone and Mic Combo Jack	Yes
