@@ -1,0 +1,95 @@
+Laptop Model Name: Dell Vostro 5620
+
+Specifications:
+
+Processor:
+     - 12th Generation Intel® Core™ i3-1215U Processor (10 MB Cache, up to 4.4 GHz)
+     - 12th Generation Intel® Core™ i5-1235U Processor (12 MB Cache, up to 4.4 GHz)
+     - 12th Generation Intel® Core™ i5-1240P Processor (12 MB Cache, up to 4.4 GHz)
+     - 12th Generation Intel® Core™ i7-1255U Processor (12 MB Cache, up to 4.7 GHz)
+     - 12th Generation Intel® Core™ i7-1260P Processor (18 MB Cache, up to 4.7 GHz)
+
+Operating System:
+     - Windows 11 Pro, 64-bit
+     - Windows 11 Pro National Education, 64-bit
+     - Windows 11 Home, 64-bit
+     - Windows 11 Home in S mode, 64-bit
+
+Video Card:
+  Discrete:
+     - NVIDIA® GeForce® MX570, 2 GB GDDR6
+     - NVIDIA® GeForce® MX450, 2 GB GDDR4
+  
+  Integrated:
+     - Intel® UHD Graphics
+     - Intel® Iris® Xe Graphics
+
+Display:
+     - 16-inch, FHD+ 1920 x 1200, 60 Hz, anti-glare, non-touch, 45% NTSC, 250 nits, wide-viewing angle, ComfortView
+     - 16-inch, FHD+ 1920 x 1200, 60 Hz, anti-glare, non-touch, 100% sRGB, 300 nits, wide-viewing angle, ComfortView Plus
+     - 16-inch, 3K 3072 x 1920, 60 Hz, anti-glare, non-touch, 100% sRGB, 300 nits, wide-viewing angle, ComfortView Plus
+
+Memory:
+     - 4 GB, 1 x 4 GB, DDR4, 3200 MHz
+     - 8 GB, 2 x 4 GB, DDR4, 3200 MHz, dual-channel
+     - 8 GB, 1 x 8 GB, DDR4, 3200 MHz
+     - 12 GB, 1 x 4 GB + 1 x 8 GB, DDR4, 3200 MHz
+     - 16 GB, 2 x 8 GB, DDR4, 3200 MHz, dual-channel
+     - 16 GB, 1 x 16 GB, DDR4, 3200 MHz
+     - 24 GB, 1 x 16 GB + 1 x 8 GB, DDR4, 3200 MHz
+     - 32 GB, 2 x 16 GB, DDR4, 3200 MHz, dual-channel
+
+Storage:
+     - M.2 2280, 512 GB, PCIe NVMe Gen4 x4, SSD, Class 40
+     - M.2 2280, 1 TB, PCIe NVMe Gen4 x4, SSD, Class 40
+     - M.2 2280, 2 TB, PCIe NVMe Gen4 x4, SSD, Class 40
+     - M.2 2230, 256 GB, PCIe NVMe Gen4 x4, SSD, Class 35
+     - M.2 2230, 512 GB, PCIe NVMe Gen4 x4, SSD, Class 35
+     - M.2 2230, 1 TB, PCIe NVMe Gen4 x4, SSD, Class 35
+     - M.2 2230, 256 GB, PCIe NVMe Gen3 x4, SSD, Class 35
+     - M.2 2230, 512 GB, PCIe NVMe Gen3 x4, SSD, Class 35
+     - M.2 2230, 1 TB, PCIe NVMe Gen3 x4, SSD, Class 35
+     - M.2 2280, 512 GB, PCIe NVMe Gen3 x4 QLC, SSD
+     - M.2 2280, 1 TB, PCIe NVMe Gen3 x4 QLC, SSD
+
+Ports:
+     - 2 USB 3.2 Gen 1 ports
+     - 1 USB 3.2 Gen 2x2 Type-C® port with DisplayPort® and Power Delivery
+     - 1 Headset jack
+     - 1 HDMI 1.4 port
+     - HDMI 1.4 (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K output)
+     - 1 power-adapter port
+     - 1 RJ45 Ethernet port
+
+Optical Drive:
+     - No optical drive
+
+Slots:
+     - 1 SD-card slot
+     - 1 wedge-shaped lock slot
+
+Dimensions & Weight:
+     - Height (rear): 0.71 in. (17.95 mm)
+     - Height (peak): 0.72 in. (18.30 mm)
+     - Height (front): 0.62 in. (15.67 mm)
+
+Width: 14.05 in. (356.78 mm)
+Depth: 9.92 in. (251.90 mm)
+Weight (minimum): 4.21 lb (1.91 kg)
+
+Camera:
+    - 1080p at 30 fps FHD camera
+    - Dual-array microphones
+
+Audio and Speakers:
+    - Stereo speakers with Waves MaxxAudio® Pro, 2 W x 2
+
+Wireless:
+    - Intel® Wi-Fi 6 2x2 (Gig+), Bluetooth® wireless card
+
+
+Why Choose Dell Vostro 5620?
+    - Design and Build Quality
+    - I/O Ports
+    - Upgradeability
+    - Battery life

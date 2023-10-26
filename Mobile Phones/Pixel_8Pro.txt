@@ -1,0 +1,16 @@
+
+Phone Model Name: Google Pixel 8 Pro
+
+Specifications:
+
+Processor: Google Tensor G3
+RAM: 12GB
+Storage: 128,256,512GB
+Display: 6.7 inch, 120Hz, QHD+OLED, 489ppi 
+Camera: 50 MP + 48 MP ultrawide + 48 MP 5x telephoto , 10.5MP selfie
+Battery: 5050 mAh
+Operating System: Android 14
+Connectivity: 5G,eSIM,wifi7,UMB,NFC,Bluetooth 5.3 and GNSS
+Additional Features: Fingerprint (Indisplay, optical), accelerometer, proximity, gyro, compass, barometer, thermometer(skin temperature)
+Why Choose Google Pixel 8 Pro ?
+Pixel 8 Pro images look sharper, speedy software and security updates directly from google.

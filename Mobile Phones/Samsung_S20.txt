@@ -1,0 +1,17 @@
+Phone Model Name: Samsung Galaxy S20 FE
+
+Specifications:
+
+Processor: Qualcomm Snapdragon 865
+RAM: 8GB
+Storage: 128GB
+Display: 6.5-inch Super AMOLED, 1080 x 2400 pixels, 120Hz refresh rate
+Camera: Triple camera setup - 12MP primary, 8MP telephoto, 12MP ultrawide; Front camera - 32MP
+Battery: 4,500 mAh
+Operating System: Android 13 with Samsung's One UI 5.1
+Connectivity: 5G, Wi-Fi 6, Bluetooth 5.0, USB-C, NFC, etc.
+Additional Features: IP68 water and dust resistance, Wireless charging, Reverse wireless charging, Stereo speakers, In-display fingerprint sensor
+
+Why Choose Samsung Galaxy S20 FE?
+
+The Samsung Galaxy S20 FE is a compelling choice for anyone looking for a high-performance smartphone with a balanced set of features.

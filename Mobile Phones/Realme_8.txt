@@ -1,0 +1,77 @@
+Phone Model Name: Realme 8
+
+Specifications:
+
+Display:
+      Size:	6.4 inches
+      Resolution:	2400 x 1080 pixels, 20:9 ratio, 411 PPI
+      Technology:	Super AMOLED
+      Refresh rate:	60Hz
+      Screen-to-body:	83.34 %
+      Peak brightness:	1000 cd/m2 (nit)
+      Features:	Ambient light sensor, Proximity sensor
+
+Hardware:
+      System chip:	MediaTek Helio G95 MT6785V (12 nm)
+      Processor:	Octa-core, 2050 MHz, Cortex-A76, 64-bit
+      GPU:	Mali G76
+      RAM:	4GB LPDDR4
+      Internal storage:	128GB (UFS 2.1)
+      Storage expansion:	microSDXC
+      Device type:	Smartphone
+      OS:	Android (11), realme 2.0 UI
+
+Battery
+      Capacity:	5000 mAh
+      Type:	Li - Polymer, Not user replaceable
+      Charging:	Fast charging
+      Max charge speed:	Wired: 30.0W
+
+Camera:
+      Rear:	Quad camera
+      Main camera:	64 MP (PDAF)
+      Specifications:	Aperture size: F1.8; Focal length: 26 mm; Sensor size: 1/1.7"; Pixel size: 0.8 μm
+      Second camera:	8 MP (Ultra-wide)
+      Specifications:	Aperture size: F2.2; Focal Length: 16 mm; Sensor size: 1/4"; Pixel size: 1.12 μm
+      Third camera:	2 MP (Macro)
+      Specifications:	Aperture size: F2.4
+      Fourth camera:	2 MP (Black and White)
+      Specifications:	Aperture size: F2.4
+      Video recording:	3840x2160 (4K UHD) (30 fps), 1920x1080 (Full HD) (120 fps), 1280x720 (HD) (240 fps)
+      Features:	Time-lapse video, Picture-taking during video recording, EIS
+      Front:	16 MP (HDR)
+      Video capture:	1920x1080 (Full HD)
+
+Design:
+      Dimensions:	6.32 x 2.91 x 0.31 inches (160.6 x 73.9 x 8 mm)
+      Weight:	6.24 oz (177.0 g)
+      Materials:	Back: Plastic; Frame: Plastic
+      Biometrics:	In-screen fingerprint
+      Keys:	Right: Volume control, Lock/Unlock key
+      Colors:	Cyber Silver, Cyber Black
+
+Cellular:
+      4G (FDD):	Bands 1(2100), 3(1800), 5(850), 8(900)
+      4G (TDD):	Bands 38(2600), 40(2300), 41(2600+)
+      3G:	Bands 4(1700/2100), 5(850), 8(900)
+      Data Speed:	LTE-A, HSDPA+ (4G) 42.2 Mbit/s
+      Dual SIM:	Yes
+      SIM type:	Nano SIM
+
+Multimedia:
+      Headphones:	3.5mm jack
+      Speakers:	Earpiece, Loudspeaker
+      Screen mirroring:	Wireless screen share
+      Radio:	FM
+      Additional microphone(s):	for Noise cancellation
+
+Connectivity and Features:
+      Bluetooth:	5.1
+      Wi-Fi:	802.11 a, b, g, n, ac; Wi-Fi Direct, Hotspot
+      USB:	Type-C (reversible), USB 2.0
+      Features:	Charging, OTG
+      Location:	GPS, A-GPS, Glonass, Galileo, BeiDou, Cell ID, Wi-Fi positioning
+      Sensors:	Accelerometer, Gyroscope, Compass
+
+Why Choose Realme 8 ?
+    - Realme 8 is a budget phone that comes with Super Amoled display.
