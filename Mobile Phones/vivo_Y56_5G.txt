@@ -1,0 +1,23 @@
+Phone Model Name: vivo Y56 5G
+
+Specifications:
+
+    Processor: Dimensity 700
+    RAM: 8GB
+    Storage: 128GB
+    Display: 6.5 inches IPS LCD
+    Camera:
+    Rear: Triple camera setup (48MP main, 8MP ultra-wide, 2MP depth sensor)
+    Front: 16MP
+    Battery: 5000mAh
+    Operating System: Funtouch OS based on Android 13
+    Connectivity: 5G, Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 5.1, USB Type-C
+    Additional Features:
+        In-display fingerprint sensor
+        Dual SIM
+        18W fast charging
+        AI Face Unlock
+        Multi-Turbo 4.0 for enhanced performance
+
+Why Choose vivo Y56 5G?
+Choose the vivo Y56 5G for its powerful performance, stunning camera setup, and 5G connectivity, delivering a seamless and future-proof smartphone experience.
