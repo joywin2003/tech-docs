@@ -1,0 +1,16 @@
+Phone Model Name: Samsung M21
+
+Specifications:
+
+Processor: Exynos 9611
+RAM: 4GB
+Storage: 64GB
+Display: 6.4-inch Super AMOLED Plus display, FHD+ resolution
+Camera: Rear camera: 48MP (wide) + 8MP (ultrawide) + 5MP (depth sensor)
+Battery: 6000mAh
+Operating System: Android 11
+Connectivity: 4G LTE, Wi-Fi, Bluetooth, GPS, NFC
+Additional Features: Fingerprint sensor, face unlock, dedicated microSD card slot
+
+Why Choose Samsung M21?
+The Samsung M21 is a great choice for budget-minded consumers who are looking for a phone with a large display, long battery life, and a good camera.
