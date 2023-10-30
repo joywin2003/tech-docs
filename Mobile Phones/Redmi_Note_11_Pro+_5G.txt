@@ -1,0 +1,36 @@
+
+Phone Model Name: Redmi Note 11 Pro+ 5G
+
+Specifications:
+
+Processor: Snapdragon 695 
+	- CPU: Octa-core CPU, up to 2.2GHz
+	- GPU: Qualcomm® Adreno™ 619
+RAM & Storage:
+	- Variant 1: 6 GB of RAM + 128 GB of Storage
+	- Variant 2: 8 GB of RAM + 128 GB of Storage
+	- Variant 3: 8 GB of RAM + 256 GB of Storage 
+	- (Expandable storage upto 1TB)
+	
+Display: 120Hz Super AMOLED Displsay
+Camera: 
+*REAR CAMERA:
+	- 108MP Wide camera (f/1.9)
+	- 8MP Ultra-wide camera (f/2.2)
+	- 2MP Macro camera (f/2.4)
+*FRONT CAMERA:
+	- 16MP Front camera (f/2.4)
+
+Battery: 5000mAh (typ) 
+Operating System: MIUI 13, based on Android 11
+Connectivity: 5G, Bluetooth 5.1, Wi-Fi direct
+
+Additional Features: 
+	- LiquidCool Technology
+	- Side fingerprint sensor
+	- AI Face Unlock
+	- Dual speakers
+
+Why Choose Redmi Note 11 Pro+ 5G?
+Redmi Note 11 Pro+ is 5G Ready which changes the way you experience and share content. Its Two-Day Battery ensures you don’t run out of juice while you're on the go. It allows you to capture the tiniest of details using the Pro-Grade AI triple camera and experience vivid colours on the stunning Super AMOLED Display. 
+
