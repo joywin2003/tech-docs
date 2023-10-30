@@ -1,0 +1,63 @@
+GENERAL
+Model	14s-fq1083AU, 14s-fq1083AU
+Utility	Performance
+Device Type	Ultrabook
+OS	Windows 10 Home (64-bit)
+Dimensions	324 x 225 x 17.9 mm
+Weight	1.46 kg
+Warranty	1 year Onsite Warranty
+
+DISPLAY
+Type	Full HD IPS
+Touch	No
+Size	14 inches
+Resolution	1920 x 1080 pixels
+PPI	~ 157 PPI
+Anti Glare Screen	No
+Features	Micro-edge, BrightView, Brightness: 250 nits, Color Gamut: 45%NTS
+
+CONNECTIVITY
+Ethernet	No
+WiFi	Realtek Wi-Fi CERTIFIED 6 (1x2)
+Bluetooth	v5.2
+USB Ports	No USB Port
+HDMI	1 x HDMI 1.4b Port
+Fingerprint Sensor	Yes
+Microphone In	Yes
+Headphone Jack	Yes
+
+INPUT
+Camera	Yes
+Keyboard	Full-size, backlit, natural silver keyboard, Yes
+Keyboard Backlit	Yes
+Touchpad	HP Imagepad with Multi-touch Gesture Support
+Inbuilt Microphone	Built-in dual array digital microphones
+Speakers	Built-in Dual Speakers
+Sound	Built-in speaker
+Optical Drive	No
+
+PROCESSOR
+Processor	5th Gen AMD Ryzen 7 5700U
+Speed	8 x 1.8 GHz (Turbo Speed upto 4.3 GHz) Cores
+Cores	Octa Core, 16 Threads
+Cache	8 MB
+Brand	AMD
+Series	Ryzen 7
+Model	5700U
+Generation	5th Gen
+
+GRAPHICS
+GPU	AMD Radeon AMD
+Brand	AMD
+
+MEMORY
+RAM	8 GB DDR4
+Solid State Drive	512 GB
+
+BATTERY
+Battery	41 Wh, 3 Cell Battery
+
+EXTRA
+Included Software	Microsoft Office Home & Student 2019
+Sales Package	Laptop, battery, adapter, cables and user manuals
+Other Features	41 Wh Li-ion
