@@ -1,0 +1,33 @@
+Laptop Model Name: HP Pavilion x360
+
+Specifications:
+
+- Operating System: Windows 11 Home
+- Processor: Intel® Core™ i5-1335U (up to 4.6 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)
+- Memory: 16 GB DDR4-3200 MHz RAM (onboard)
+- Storage: 1 TB PCIe® NVMe™ M.2 SSD
+- Display: 35.6 cm (14) diagonal, FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits, 45% NTSC
+- Graphics: Intel Iris Xe Graphics
+- Ports: 1 USB Type-C® 10Gbps, 2 USB Type-A 5Gbps, 1 HDMI 2.1, 1 AC smart pin, 1 headphone/microphone combo
+- Audio: Audio by B&O; Dual speakers; HP Audio Boost
+- Webcam: HP True Vision 5MP camera with camera shutter, temporal noise reduction, and integrated dual array digital microphones
+- Wireless: Intel® Wi-Fi 6E AX211 (2x2) and Bluetooth® 5.3 wireless card
+- Battery: 3-cell, 43 Wh Li-ion polymer
+- Design: Natural silver with a paint finish cover and base, anodized keyboard frame
+- Security: Camera privacy shutter, Trusted Platform Module (Firmware TPM) support
+- Software: McAfee LiveSafe™, 1-month trial for new Microsoft 365 customers
+- Warranty: 1 Year Onsite Warranty
+
+Key Features:
+
+- Powerful Processor: Equipped with the Intel® Core™ i5-1335U processor, capable of reaching speeds up to 4.6 GHz with Intel® Turbo Boost Technology, making it suitable for a wide range of tasks.
+- Ample Memory: With 16 GB of DDR4 RAM, you can expect smooth multitasking and efficient performance.
+- High-speed Storage: The 1 TB PCIe NVMe SSD provides fast and spacious storage for your data.
+- Vibrant Display: The 14-inch FHD display with multitouch support, IPS technology, and 250 nits brightness offers a vivid viewing experience.
+- Sleek and Portable: The convertible design and lightweight (1.51 kg) make it highly portable and versatile for different usage modes.
+- Enhanced Audio: Audio by B&O, dual speakers, and HP Audio Boost deliver impressive sound quality.
+- Connectivity: Features a variety of ports, including USB Type-C, USB Type-A, HDMI, and more.
+- Security: Includes a camera privacy shutter and Trusted Platform Module (Firmware TPM) support for enhanced security.
+- Environmentally Friendly: Built with sustainability in mind, including the use of ocean-bound plastic and recycled materials.
+
+The HP Pavilion x360 offers a powerful, versatile, and stylish computing experience, suitable for a range of tasks, whether you're working, studying, or enjoying multimedia content. Its robust specifications, sleek design, and emphasis on sustainability make it a compelling choice for users looking for a well-rounded laptop.
